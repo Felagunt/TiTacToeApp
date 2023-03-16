@@ -1,4 +1,4 @@
-package com.example.titactoeapp.ui.theme
+package com.example.tictactoeapp.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

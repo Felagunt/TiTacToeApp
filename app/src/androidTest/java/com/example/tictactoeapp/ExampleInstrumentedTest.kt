@@ -1,4 +1,4 @@
-package com.example.titactoeapp
+package com.example.tictactoeapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
